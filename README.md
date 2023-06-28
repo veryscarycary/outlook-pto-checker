@@ -1,5 +1,5 @@
 # outlook-pto-checker
-A script with works with Microsoft Outlook for Mac to gets the number of PTO days used
+A script that works with Microsoft Outlook for Mac to get the number of PTO days used(Useful for "unlimited" PTO jobs)
 
 ## How to Use
 
